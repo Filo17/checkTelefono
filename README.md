@@ -13,7 +13,7 @@ Realizzazione di un programma in console che permette di... <br>
 ## Come funziona?
   
 <details>
-<summary>Controllo dello span</summary>
+<summary>Pezzo di codice</summary>
 
 ```c#
 //pezzo di codice
