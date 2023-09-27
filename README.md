@@ -7,7 +7,7 @@ Realizzazione di un programma in console che permette di riconoscere un numero d
 **Ad esempio:**
 
 - che inizia con +39 (esattamente lungo  13)
-- oppure con 0039 (esattamente lungi 14)
+- oppure con 0039 (esattamente lungo 14)
 - oppure con un 3 (esattamente lungo 10)
 
 
